@@ -30,7 +30,7 @@ If you want to modify or build the app yourself:
    The APK will be in `app/build/outputs/apk/debug/`.
 
 ## 📸 Screenshots
-*(Add screenshots here if needed)*
+![App Screenshot](android_apps/myapplication.jpg)
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
