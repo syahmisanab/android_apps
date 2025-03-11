@@ -31,6 +31,8 @@ If you want to modify or build the app yourself:
 
 ## 📸 Screenshots
 ![App Screenshot](https://github.com/syahmisanab/android_apps/blob/main/myapplication.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/syahmisanab/android_apps/main/android_apps/myapplication.jpg" width="300">
+
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
