@@ -30,7 +30,7 @@ If you want to modify or build the app yourself:
    The APK will be in `app/build/outputs/apk/debug/`.
 
 ## 📸 Screenshots
-<img src="https://raw.githubusercontent.com/syahmisanab/android_apps/main/android_apps/myapplication.jpg" width="300">
+![App Screenshot](https://github.com/syahmisanab/android_apps/blob/main/myapplication.jpg?raw=true)
 
 
 ## 📜 License
